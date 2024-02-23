@@ -4,5 +4,11 @@
 
 Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github.io).
 
+## Vežbe
+
+### Skripte
+
+[Vežbe 1](./vezbe/01.md)
+
 [licence]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [licence-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
