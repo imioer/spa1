@@ -8,7 +8,8 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 
 ### Skripte
 
-[Vežbe 1](./vezbe/01.md)
+[Vežbe 1](./vezbe/01.md)  
+[Vežbe 2](./vezbe/02.md)
 
 [licence]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [licence-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
