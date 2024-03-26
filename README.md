@@ -15,6 +15,7 @@ Ovaj kurs je deo projekta [IMI Open Educational Resources](https://imioer.github
 [Vežbe 5](./vezbe/05.md)  
 [Vežbe 6](./vezbe/06.md)  
 [Vežbe 7](./vezbe/07.md)  
+[Vežbe 8](./vezbe/08.md)  
 
 [licence]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [licence-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
